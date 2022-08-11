@@ -15,11 +15,14 @@ Module6中的数据和模型架构被我修改了一部分。数据采用萨摩�
 + Module2-语音预测
 + Module3-CNN食品图片分类
 + Module4-Self-attention语音分类
-+ Module5-Transfomer
++ Module5-Transformer
 + Module6-GAN生成宠物狗照片
-+ Module7-Self-Supervised Learning 
-+ Module8-AutoEncoder
-+ Module9-Explainable ML
-+ Module10-AdversarialAttack
-+ Module11-DomainAdaptation
-+ Module12-ReinforcementLearning
++ Module7-Self-Supervised Learning(自监督学习)    
++ Module8-AutoEncoder(自编码器)  
++ Module9-Explainable ML(可解释性机器学习)  
++ Module10-AdversarialAttack(对抗攻防)  
++ Module11-DomainAdaptation(领域自适应)
++ Module12-ReinforcementLearning(强化学习)    
++ Module13-NetworkCompression(神经网络压缩)  
++ Module14-LifeLongLearning(机器终身学习)   
++ Module15-MetaLearning(元学习)  
